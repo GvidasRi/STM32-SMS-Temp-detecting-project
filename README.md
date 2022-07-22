@@ -1,2 +1,3 @@
-# STM32-SMS-Temp-detecting-project
-STM32 controller with temperature sensor and SMS module
+# Baigiamasis darbas
+
+Prie mikrokontrolerio yra prijungtas temperatūros sensorius kartu su SMS moduliu ir sensoriui pasiekus tam tikrą temperatūra yra išsiunčiama žinutė pasirinkam asmeniui.
